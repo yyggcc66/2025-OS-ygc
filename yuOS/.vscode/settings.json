@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "x86.h": "c",
+        "compare": "c",
+        "cstdint": "c"
+    }
+}
